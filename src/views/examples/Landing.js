@@ -81,13 +81,11 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
-                        <span>completed with examples</span>
+                       Maram Ankir{" "}
+                        <span>Software Developer</span>
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                      Literally every technology excites me.But what I’m always excited the most is the applications of Artificial Intelligence techniques and algorithms (Deep Learning, Machine Learning). The advancements in this field have empowered us to chase after problems and create novel solutions.
                       </p>
                       <div className="btn-wrapper">
                         <Button
@@ -148,7 +146,7 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                            Download Argon
+                            
                           </h6>
                           <p className="description mt-3">
                             Argon is a great free UI package based on Bootstrap
@@ -258,11 +256,11 @@ class Landing extends React.Component {
             <Container>
               <Row className="row-grid align-items-center">
                 <Col className="order-md-2" md="6">
-                  <img
+                  {/* <img
                     alt="..."
                     className="img-fluid floating"
                     src={promo1}
-                  />
+                  /> */}
                 </Col>
                 <Col className="order-md-1" md="6">
                   <div className="pr-md-5">
